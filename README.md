@@ -1,2 +1,2 @@
 # COVID-19
-Code
+Detection of Covid-19 Virus cases 
