@@ -7,7 +7,7 @@ The COVID-19 pandemic continues to have a devastating effect on the health and w
 
 The main requirements are listed below:
 
-* Tested with Tensorflow 1.13 and 1.15
+* Tested with Tensorflow
 * OpenCV 
 * Python 
 * Numpy
@@ -16,7 +16,6 @@ The main requirements are listed below:
 
 Additional requirements to generate dataset:
 
-* PyDicom
 * Pandas
 * Jupyter
 
